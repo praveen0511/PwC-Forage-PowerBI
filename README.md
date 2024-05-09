@@ -7,6 +7,9 @@ The tasks are given under PwC PowerBI Virtual Experience Program in Forage.
 **Task 1: Call Centre Trends:** Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 This task requires you to create a dashboard in Power BI that displays all the relevant KPIs and metrics related to call center trends. Possible KPIs include:
 Overall customer satisfaction: This KPI measures the satisfaction level of customers who contacted the call center for support. Overall calls answered/abandoned: This KPI measures the number of calls answered by agents versus the number of calls abandoned by customers. Calls by time: This KPI measures the volume of calls during different times of the day, week, or month. Average speed of answer: This KPI measures the average time taken by agents to answer customer calls. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
+Task1 :
+![Screenshot 2023-12-06 193811](https://github.com/praveenkumarbarange/P2-Pwc_Call-Centre-Trend-Analysis/assets/52094094/e847fb1f-c849-4946-a524-982f639bca4d)
+
 
 **Task 2:: Customer Retention**
 Define proper KPIs:
